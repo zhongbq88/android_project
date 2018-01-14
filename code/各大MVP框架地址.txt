@@ -1,0 +1,14 @@
+mvc  Model--View-Control  模型  视图  控制器    视图  与业务逻辑的分离
+
+mvp  Model-View-Persenter  IBM  C++  java的编程模型
+
+
+Persenter /Control处理业务逻辑 Mode提供数据 View负责显示
+
+MVP核心思想：mvp把视图层中UI逻辑抽象成View接口  把业务逻辑抽象成Presenter    Model还是原来的Model
+ TheMVP  github地址：https://github.com/kymjs/TheMVP
+MVPro    github地址   https://github.com/qibin0506/MVPro
+ Nucleus 框架 （MVP）   github地址 https://github.com/konmik/nucleus
+
+
+Beam 框架  框架  github地址：https://github.com/Jude95/Beam
