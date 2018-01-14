@@ -12,3 +12,9 @@ MVPro    github地址   https://github.com/qibin0506/MVPro
 
 
 Beam 框架  框架  github地址：https://github.com/Jude95/Beam
+
+https://github.com/Tamicer/Novate (Android网络框架，基于Retrofit和RxJava打造的链式网络库, 支持okhttp的调用风格，又兼容Retrofit API，并支持rxJava链式操作）
+
+https://github.com/Tamicer/RetrofitClient 基于Retrofit2.x和Rxjava2.x封装的请求工具类(内含Retrofit2.x & rxjava1.x)
+
+https://github.com/ennur/Clean-Android-Code MVP + Dagger 2 + RxJava + Retrofit2
